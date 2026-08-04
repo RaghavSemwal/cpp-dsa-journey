@@ -51,15 +51,4 @@ Whenever solving any pattern problem using nested loops, apply this systematic 2
 
 ---
 
-## 💻 Section 2: Code Implementation of All Patterns
-
-Below is a C++ file containing all the patterns covered in the lecture, structured with clear comments explaining the underlying logic.
-
-```cpp
-#include <iostream>
-using namespace std;
-
-
-
----
 
