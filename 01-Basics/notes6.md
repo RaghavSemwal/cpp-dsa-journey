@@ -221,5 +221,3 @@ int main() {
     checkOddEvenBinary(100101); // 37 -> Odd
     return 0;
 }
-
-```
