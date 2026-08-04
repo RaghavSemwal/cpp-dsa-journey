@@ -1,6 +1,6 @@
 # Complete Lecture Notes: Binary Number System in C++
 
-
+*(DSA Series by Shradha Khapra Ma'am - Apna College, Lecture 6)*
 
 ---
 
@@ -158,6 +158,9 @@ Step 3: 2's Complement (-10)     [ 1 ][ 1 ][ 1 ][ 1 ][ 0 ][ 1 ][ 1 ][ 0 ]
 ---
 
 
+
+
+
 ---
 
 ## 📝 Section 4: Homework Exercises & Solutions
@@ -197,3 +200,25 @@ $$0 \times 2^7 + \dots + 1 \times 2^3 + 1 \times 2^2 + 1 \times 2^1 + 1 \times 2
 
 ---
 
+### Homework Challenge 3: C++ Program to Check if Binary LSB indicates Odd/Even
+
+```cpp
+#include <iostream>
+using namespace std;
+
+void checkOddEvenBinary(int binNum) {
+    int lsb = binNum % 10;
+    if (lsb == 1) {
+        cout << "Binary " << binNum << " represents an ODD number." << endl;
+    } else {
+        cout << "Binary " << binNum << " represents an EVEN number." << endl;
+    }
+}
+
+int main() {
+    checkOddEvenBinary(101010); // 42 -> Even
+    checkOddEvenBinary(100101); // 37 -> Odd
+    return 0;
+}
+
+```
