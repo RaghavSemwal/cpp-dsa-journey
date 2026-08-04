@@ -173,7 +173,10 @@ Step 3: 2's Complement (-10)     [ 1 ][ 1 ][ 1 ][ 1 ][ 0 ][ 1 ][ 1 ][ 0 ]
 2. **1's Complement (Invert all bits):** `1111 0000`
 3. **Add 1 to LSB:**
 
-$$\begin{array}{rl}      11110000 \\    + 00000001 \\    \hline      11110001    \end{array}
+     11110000
+  +  00000001
+   ----------- 
+     11110001    
 
 **Result:** $-15$ in 8-bit 2's Complement is `11110001`.
 
