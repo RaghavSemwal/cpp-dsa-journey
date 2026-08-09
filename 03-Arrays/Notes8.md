@@ -1,6 +1,6 @@
 # Complete Lecture Notes: Array Data Structure (Part 1) in C++
 
-*(DSA Series by Shradha Khapra Ma'am - Apna College, Lecture 8)*
+
 
 ---
 
