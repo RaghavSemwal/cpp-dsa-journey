@@ -1,6 +1,6 @@
 # Complete Lecture Notes: Kadane's Algorithm & Maximum Subarray Sum
 
-*(DSA Series by Shradha Khapra Ma'am - Apna College, Lecture 10)*
+
 
 ---
 
