@@ -1,6 +1,6 @@
 # Complete Lecture Notes: Book Allocation Problem
 
-*(DSA Series by Shradha Khapra Ma'am - Apna College, Lecture 21)*
+
 
 ---
 
