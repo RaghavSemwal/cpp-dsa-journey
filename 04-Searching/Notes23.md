@@ -1,6 +1,6 @@
 # Complete Lecture Notes: Aggressive Cows Problem
 
-*(DSA Series by Shradha Khapra Ma'am - Apna College, Lecture 23)*
+
 
 ---
 
